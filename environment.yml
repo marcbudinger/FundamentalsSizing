@@ -10,5 +10,5 @@ dependencies:
   - pandas
   - partd
   - bokeh
-- dask
-- ipywidgets
+  - dask
+  - ipywidgets
